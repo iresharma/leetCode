@@ -10,3 +10,6 @@ Hey guys, I am mostly a FullStack Developer and CP never really attracted me but
 None of my solutions are bruteforce and on avergae they are in the top 60+% in time and top 40+% in space in the language used
 
 **I have put the performance in a multiline comment write before the code and also the link to the question**
+
+
+#### Any file with a `!` in their name implies it's a poor solution and may need contribution
