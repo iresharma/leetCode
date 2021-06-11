@@ -2,8 +2,8 @@
 # https://leetcode.com/problems/shuffle-string/
 
 """
-Runtime: 68 ms, faster than 14.43% of Python3 online submissions for Shuffle String.
-Memory Usage: 14.3 MB, less than 51.62% of Python3 online submissions for Shuffle String.
+Runtime: 52 ms, faster than 81.37% of Python3 online submissions for Shuffle String.
+Memory Usage: 14.2 MB, less than 51.95% of Python3 online submissions for Shuffle String.
 """
 
 class Solution:

@@ -2,8 +2,8 @@
 # https://leetcode.com/problems/design-parking-system/submissions/
 
 """
-Runtime: 128 ms, faster than 97.38% of Python3 online submissions for Design Parking System.
-Memory Usage: 14.8 MB, less than 53.71% of Python3 online submissions for Design Parking System.
+Runtime: 128 ms, faster than 97.42% of Python3 online submissions for Design Parking System.
+Memory Usage: 14.5 MB, less than 93.43% of Python3 online submissions for Design Parking System.
 """
 
 class ParkingSystem:

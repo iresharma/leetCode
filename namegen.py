@@ -7,5 +7,5 @@ link = f"https://leetcode.com/problems/{s.replace(' ', '-').replace('.', '')}/"
 
 with open(s.replace(' ', '-').replace('.', '') + '.py', 'w') as code:
     code.write(
-        f'# Author: @Iresharma\n # {link}\n\n"""\n"""'
+        f'# Author: @Iresharma\n# {link}\n\n"""\n"""'
     )

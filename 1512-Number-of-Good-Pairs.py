@@ -2,8 +2,8 @@
 # https://leetcode.com/problems/number-of-good-pairs/submissions/
 
 """
-Runtime: 36 ms, faster than 45.71% of Python3 online submissions for Number of Good Pairs.
-Memory Usage: 14.2 MB, less than 41.16% of Python3 online submissions for Number of Good Pairs.
+Runtime: 28 ms, faster than 91.88% of Python3 online submissions for Number of Good Pairs.
+Memory Usage: 14.1 MB, less than 70.41% of Python3 online submissions for Number of Good Pairs.
 """
 
 class Solution:

@@ -2,8 +2,8 @@
 # https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/
 
 """
-Runtime: 40 ms, faster than 10.35% of Python3 online submissions for Number of Steps to Reduce a Number to Zero.
-Memory Usage: 14.3 MB, less than 34.64% of Python3 online submissions for Number of Steps to Reduce a Number to Zero.
+Runtime: 20 ms, faster than 99.01% of Python3 online submissions for Number of Steps to Reduce a Number to Zero.
+Memory Usage: 14.2 MB, less than 34.79% of Python3 online submissions for Number of Steps to Reduce a Number to Zero.
 """
 
 
