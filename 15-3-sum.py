@@ -2,8 +2,8 @@
 # https://leetcode.com/problems/3sum/submissions/
 
 '''
-Runtime: 668 ms, faster than 94.70% of Python3 online submissions for 3Sum.
-Memory Usage: 18 MB, less than 31.74% of Python3 online submissions for 3Sum.
+Runtime: 656 ms, faster than 95.09% of Python3 online submissions for 3Sum.
+Memory Usage: 18.1 MB, less than 26.23% of Python3 online submissions for 3Sum.
 '''
 
 
