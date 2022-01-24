@@ -16,17 +16,17 @@ class Solution:
         a=head
         b=head
         c=1
-        c1=head   
+        prev=head   
         while c!=n:
             a=a.next
             c=c+1
         while a.next:
             a=a.next
-            c1=b
+            prev=b
             
             b=b.next
-        if c1==b:
+        if prev==b:
             head=b.next
             return head
-        c1.next=b.next
+        prev.next=b.next
         return head
